@@ -21,7 +21,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AryanMittal11/Motherhood_Stories.git
    cd Motherhood_Stories
 2. **Install Dependencies**
    ```bash
@@ -34,7 +34,7 @@ To set up the project locally, follow these steps:
 
 ## 🌐 Live Demo
 
-Check out the live project here: 
+Check out the live project here: https://motherhood-stories.vercel.app/
 
 ---
 
